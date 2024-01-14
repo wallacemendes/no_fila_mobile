@@ -43,7 +43,7 @@ class _ConnectSiacState extends ConsumerState<ConnectSiac> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Image.asset(
-                            '/images/logo.png',
+                            'assets/images/logo.png',
                             height: 75,
                           ),
                           const Icon(Icons.sync_alt_outlined, size: 65),
