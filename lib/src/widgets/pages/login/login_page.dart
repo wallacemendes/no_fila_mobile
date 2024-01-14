@@ -84,7 +84,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Image.asset(
-                          '/images/logo.png',
+                          'assets/images/logo.png',
                           height: 100,
                         ),
                         Container(
