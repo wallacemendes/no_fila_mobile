@@ -1,4 +1,6 @@
 # !Fila Mobile
+
+
 ## Sobre o Projeto
 
 O **!Fila** é um sistema destinado a otimizar o processo de ajustes de matrículas em disciplinas para alunos e professores. Este projeto visa melhorar a eficiência e a experiência dos usuários ao realizar ajustes, substituições ou remoções de disciplinas de forma assíncrona e síncrona.
@@ -26,6 +28,16 @@ O **!Fila** é um sistema destinado a otimizar o processo de ajustes de matrícu
 
 ## Observações Adicionais
 - **Integração com API Externa:** A integração com APIs que fornecem informações sobre vagas e disciplinas é benéfica, mas não essencial para o funcionamento do sistema.
+
+## Telas
+
+![Tela Login](screenshots/1%20-%20TelaLogin.png)
+![Tela Cadastro](screenshots/2%20-%20TelaCadastro.png)
+![Tela Recuperar Senha](screenshots/3%20-%20TelaRecuperarSenha.png)
+![Tela Boas Vindas SIAC](screenshots/4%20-%20TelaOnboardingSIAC.png)
+![Tela Login SIAC](screenshots/5%20-%20TelaLoginSIAC.png)
+![Tela Home](screenshots/6%20-%20TelaHome.png)
+![Tela Grade Curricular](screenshots/7%20-%20TelaGradeCurricular.png)
 
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
